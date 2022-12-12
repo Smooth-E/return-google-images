@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Return Google Images",
+  "version": "1.0",
+  "description": "Redirects all yt3.ggpht.com requests to yt3.googleusercontent.com",
+  "icons": {
+    "128": "icon-128.png"
+  },
+  "background": {
+    "scripts": [
+        "redirector.js"
+    ]
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ]
+}
