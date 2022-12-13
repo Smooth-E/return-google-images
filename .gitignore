@@ -2,3 +2,4 @@
 *.pem
 *.zip 
 *.xpi
+*.web-extension-id
