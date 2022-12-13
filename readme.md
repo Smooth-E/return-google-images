@@ -20,7 +20,7 @@
 > - Microsoft Edge
 > - Kiwi Browser для Android
 
-1. Для установки расширения скачайте файл "Return Google Images 1.0.zip"
+1. Для установки расширения скачайте файл [Return Google Images 1.0.zip](https://github.com/Smooth-E/return-google-images/raw/master/Binaries/Return%20Google%20Images%201.0.zip)
 2. Перейдите на страницу установки расширений своего браузера. Вот несколько примеров:
     - `chrome://extensions` для Chromium и Google Chrome
     - `browser://extensions` для Yandex Браузера
@@ -30,7 +30,7 @@
 
 ### Firefox
 
-1. Скачайте файл "Return Google Images 1.0.xpi"
+1. Скачайте файл [Return Google Images 1.0.xpi](https://github.com/Smooth-E/return-google-images/raw/master/Binaries/Return%20Google%20Images%201.0.xpi)
 2. В меню браузера перейдите на страницу установки Расширений и Тем (или перейдите по адресу `about:addons`)
 3. Перейдите в раздел с расширениями
 4. В правом верхнем углу нажмите на иконку настроек
